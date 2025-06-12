@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "46948739608",
+    "project_id": "todoin-7b9ad",
+    "storage_bucket": "todoin-7b9ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46948739608:android:4194670c02c2b3adc5b16d",
+        "android_client_info": {
+          "package_name": "com.example.to_do_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy1ZU4wdDT9iOcq-lVpNNiiOkK8ztBNq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46948739608:android:2b113628cdeafb10c5b16d",
+        "android_client_info": {
+          "package_name": "com.todo.memoire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46948739608-4pfncv2u946jrruhvun6r57kg1do162m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.todo.memoire",
+            "certificate_hash": "791df6c8312efc48932ee49cf5cd502bbe61894d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy1ZU4wdDT9iOcq-lVpNNiiOkK8ztBNq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
